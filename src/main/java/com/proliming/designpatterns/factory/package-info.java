@@ -51,4 +51,4 @@
  * logic of Factory pattern.</li>
  * </ul>
  */
-package com.proliming.designpatterns;
+package com.proliming.designpatterns.factory;

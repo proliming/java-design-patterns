@@ -13,6 +13,7 @@
     <modules>
         <module>singleton</module>
         <module>factory</module>
+        <module>builder</module>
     </modules>
     <packaging>pom</packaging>
 
